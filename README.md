@@ -1,5 +1,5 @@
 # Resume-Parser
-A model that will parse general information from a resume like name, email, mobile number, skills, work experience etc.
+A model api that will parse general information from a resume like name, email, mobile number, skills, work experience etc.
 
 ## What is a Resume Parser ?
 Resume Parsing is conversion of a free-form resume document into a structured set of information suitable for storage, reporting, and manipulation by software. Resume parsing helps recruiters to efficiently manage electronic resume documents sent electronically.
