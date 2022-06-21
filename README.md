@@ -10,6 +10,7 @@ The most common format of a CV or resume that recruiters receive is Word or PDF.
 
 ## Examples
 One of the examples of Resume Parsing is from Affinda
+
 Affinda provides artificial intelligence technologies for the automation of high volume document workflows. We help companies process unstructured data, removing the need for high-cost and error-prone manual processes.
 
 https://affinda.com/resume-parser/
